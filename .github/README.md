@@ -67,11 +67,3 @@ C언어 1·2 · 프로그래밍 기초 · 고급 프로그래밍 · 공학설계
 - DevOps 기반 스프링부트 · React 활용 금융 서비스 구축 → [FGC](https://github.com/feegachu/fgc)
 
 </details>
-
-<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=yslee4601&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/yslee4601?pet-id=877754750861416580"
-    width="600"
-    height="120"
-  />
-</a>
